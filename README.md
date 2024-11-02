@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jbjbhj123@gmail.com**
 
-- 📄 Know about my experiences [I am majoring in AI](I am majoring in AI)
+- 📄 Know about my experiences [I am majoring in AI].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

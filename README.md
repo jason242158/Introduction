@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason2442158&label=Profile%20views&color=0e75b6&style=flat" alt="jason2442158" /> </p>
 
-- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **any question**
 
 - 📫 How to reach me **jbjbhj123@gmail.com**
-
-- 📄 Know about my experiences [I am majoring in AI].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
